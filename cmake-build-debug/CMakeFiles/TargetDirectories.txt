@@ -1,0 +1,3 @@
+/Users/stephanschmidt/CLionProjects/aufgabe3a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stephanschmidt/CLionProjects/aufgabe3a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stephanschmidt/CLionProjects/aufgabe3a/cmake-build-debug/CMakeFiles/aufgabe3a.dir
